@@ -1,5 +1,5 @@
 # Hi there, I'm Jun Hua! 👋
-I'm a **student** who is eager to learn and contribute to open-source projects. Here are some stats about my GitHub activity:
+I'm a **student** who is eager to learn. Here are some stats about my GitHub activity:
 
 <picture>
   <source
