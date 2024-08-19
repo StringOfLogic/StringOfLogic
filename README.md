@@ -14,5 +14,4 @@ I'm a **student** who is eager to learn. Here are some stats about my GitHub act
 </picture>
 
 ## About Me
-- I'm currently learning Python, Flask and using Docker Software
-- I'm interning at a manufacturing plant, working to close the gaps and accelerate the adoption of Industry 4.0 practices.
+- I'm currently learning Python, Flask and using Docker Software.
