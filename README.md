@@ -10,6 +10,3 @@
 
 ![neonLine](https://github.com/Jun-Hua-Lee/Jun-Hua-Lee/raw/main/Assets/neonLine.gif)
 
-<div align="center">
-  🌱 I’m currently learning **Cyber Security Operation, Wire Shark, MySQL**
-</div>
