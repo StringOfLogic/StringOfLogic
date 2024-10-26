@@ -1,14 +1,15 @@
-<p align="center">
-  <a href="https://github.com/Jun-Hua-Lee">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&size=30&pause=1000&color=0000FF&center=true&vCenter=true&repeat=false&width=435&height=38&lines=%F0%9F%91%8BHi%2C+I'm+Jun+Hua!" /></a>
-</p>
+<div align="center">
+  
+### About
 
-<p align="center">
-  <a href="https://github.com/Jun-Hua-Lee">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=485&height=38&lines=A+Computer+Engineering+Student;Passionate+about+Cyber+Security" /></a>
-</p>
+**Computer Engineering student at Singapore Polytechnic**<br />
+Passionate about Protecting Digital Infrastructure<br />
+Specializing in Cybersecurity & Pursuing Certificate in IoT<br />
 
-<div align="center"> 
+<br />
+
+### Links
+
   <a href="https://linkedin.com/in/jun-hua-lee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
