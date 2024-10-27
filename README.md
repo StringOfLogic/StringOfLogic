@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jun Hua</h1>
-<h3 align="center">Passionate about Protecting Digital Infrastructure</h3>
 
-- 👨‍💻 A Computer Engineering student at Singapore Polytechnic, Specializing in Cybersecurity
+<br/>
+<div align="center">
+  
+👨‍💻 A Computer Engineering student at Singapore Polytechnic, Specializing in Cybersecurity
 
-- 🌱 I’m currently learning **CyberOps Associate, Wireshark, Mendix, MySQL Workbench**
+Passionate about Protecting Digital Infrastructure  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jun-hua-lee" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
+🌱 I’m currently learning CyberOps Associate, Wireshark, Mendix, MySQL Workbench
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<a href="https://linkedin.com/in/jun-hua-lee">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+
+<a href="https://jun-hua-lee.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-008565?style=for-the-badge&logo=googledocs&logoColor=white" />  </a>
+
+</div>
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=arduino"/> </a> 
   
