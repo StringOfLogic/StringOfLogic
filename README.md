@@ -9,11 +9,10 @@
 <a href="https://jun-hua-lee.github.io">
   <img src="https://img.shields.io/badge/Website-008565?style=for-the-badge&logo=googledocs&logoColor=white" />  </a>
 
-## 🛠️ Technical Skills / Expertise
-* Item 1
-* Item 2
-* Item 3
-
+## 🛠️ Technical Skills | Expertise
+* Familiar in identifying, assessing, and mitigating security vulnerabilities
+* Acquainted in penetration testing methodologies and vulnerability assessments
+* Understanding of encryption algorithms, SSL/TLS, and public key infrastructure
 
 ## ⚙️ Languages | Tools | Technologies 
 <a href="https://aws.amazon.com"> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a> 
