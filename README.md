@@ -6,8 +6,8 @@
 
 <a href="https://linkedin.com/in/jun-hua-lee">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-<a href="https://jun-hua-lee.github.io">
-  <img src="https://img.shields.io/badge/Website-008565?style=for-the-badge&logo=googledocs&logoColor=white" />  </a>
+<!--<a href="https://jun-hua-lee.github.io">
+  <img src="https://img.shields.io/badge/Website-008565?style=for-the-badge&logo=googledocs&logoColor=white" />  </a> -->
 
 ## 🛠️ Technical Skills | Expertise
 * Familiar in identifying, assessing, and mitigating security vulnerabilities
