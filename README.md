@@ -2,7 +2,7 @@
 
 * 👨‍💻 A Computer Engineering student at Singapore Polytechnic, Specializing in Cybersecurity
 * ⛲ Passionate about Protecting Digital Infrastructure 
-* 🌱 I’m currently learning CyberOps Associate, Wireshark, Mendix, MySQL Workbench
+* 🌱 I’m currently learning CyberOps, Wireshark, Mendix, MySQL Workbench
 
 <a href="https://linkedin.com/in/jun-hua-lee">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
