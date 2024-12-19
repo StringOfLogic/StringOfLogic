@@ -1,8 +1,8 @@
 # Hello! 👋, I'm Jun Hua
 
-* 👨‍💻 A Computer Engineering student at Singapore Polytechnic, Specializing in Cybersecurity
+* 👨‍💻 A Computer Engineering student at Singapore Polytechnic
 * ⛲ Passionate about Protecting Digital Infrastructure 
-* 🌱 I’m currently learning CyberOps, Wireshark, Mendix, MySQL Workbench
+* 🌱 I’m currently learning basics of Cyber Security such as WireShark, Metasploit, PKI
 
 <a href="https://linkedin.com/in/jun-hua-lee" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Jun-Hua-Lee" height="50" width="50" /></a>
