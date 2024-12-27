@@ -1,4 +1,4 @@
-# Hello! 👋, I'm Jun Hua
+# Hello, World!👋, I'm Jun Hua
 
 * 👨‍💻 A Computer Engineering student at Singapore Polytechnic
 * ⛲ Passionate about Protecting Digital Infrastructure 
