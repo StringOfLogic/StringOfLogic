@@ -13,7 +13,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="icons/virtualbox.png" alt="VirtualBox" width="50" height="50"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
-<a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer.html" target="_blank" rel="noreferrer"><img src="icons/ciscopackettracer.png" alt="Cisco Packet Tracer" width="50" height="50"/></a>
+<a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"><img src="icons/ciscopackettracer.png" alt="Cisco Packet Tracer" width="50" height="50"/></a>
 <br><!-- Development Tools -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
