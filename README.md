@@ -5,9 +5,9 @@
 <p align="center">🌱 I’m currently learning fundamentals of Cyber Security </p>
 
 <p align="center">
- <a href="https://StringOfLogic.github.io" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://StringOfLogic.github.io" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=GitHub&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
   <a href="https://twitter.com/StringOfLogic" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-  <a href="https://linkedin.com/in/jun-hua-lee" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="https://linkedin.com/in/jun-hua-lee" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
   <a href="https://instagram.com/StringOfLogic" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
   <a href="https://instagram.com/StringOfLogic" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000" style="vertical-align:center" /></a>
 </p>
